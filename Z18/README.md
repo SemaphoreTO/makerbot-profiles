@@ -12,12 +12,12 @@ Our lab has been running experiments with filament placement and software config
 
 Cube | Extruder Temp | Chamber Temp | Feed | Oil | Result
 ---- | ------------- | ------------ | ---- | --- | ------
-Test 1 <br /> Shells - 4 <br /> Infill 20 | 230° | 35° | Bottom | Yes | Clean. Some pull on corners. Raft bad. 
-Test 2 <br /> Shells - 2 <br /> Infill 10 | 215° | 35° | Bottom | Yes | Clean. Some pull on corners. Raft bad. Corners worse than test 1.
-Test 3 <br /> Shells - 2 <br /> Infill 10 | 215° | 30° | Bottom | Yes | Clean. Some pull on corners. Raft bad. Corners worse than test 1. 
-Test 4 <br /> Shells - 2 <br /> Infill 10 | 230° | 45° | Bottom | Yes | Clean. Less pull on corners. Raft terrible.
-Test 5 <br /> Shells - 3 <br /> Infill 10 | 215° | 35° | Bottom | Yes | Clean. Less pull on corners. Some raft issues.
-Test 6 <br /> Shells - 3 <br /> Infill 10 | 230° | 45° | Bottom | Yes | Clean. Heavily deformed.
+Test 1 <br /> Shells - 4 Infill 20 | 230° | 35° | Bottom | Yes | Clean. Some pull on corners. Raft bad. 
+Test 2 <br /> Shells - 2 Infill 10 | 215° | 35° | Bottom | Yes | Clean. Some pull on corners. Raft bad. Corners worse than test 1.
+Test 3 <br /> Shells - 2 Infill 10 | 215° | 30° | Bottom | Yes | Clean. Some pull on corners. Raft bad. Corners worse than test 1. 
+Test 4 <br /> Shells - 2 Infill 10 | 230° | 45° | Bottom | Yes | Clean. Less pull on corners. Raft terrible.
+Test 5 <br /> Shells - 3 Infill 10 | 215° | 35° | Bottom | Yes | Clean. Less pull on corners. Some raft issues.
+Test 6 <br /> Shells - 3 Infill 10 | 230° | 45° | Bottom | Yes | Clean. Heavily deformed.
 
 * Raft issues remain prevalent through all prints. Starting corner on all prints experienced heavy scarring. 
 
